@@ -120,7 +120,7 @@
     grid-template-columns: repeat(2, 1fr);
   }
   .products-container {
-    margin-top: 4rem;
+    margin-top: 6rem;
   }
 }
 
@@ -129,7 +129,7 @@
     grid-template-columns: 1fr;
   }
   .products-container {
-    margin-top: 4rem;
+    margin-top: 6rem;
   }
   .product-image-container {
     height: 200px;
