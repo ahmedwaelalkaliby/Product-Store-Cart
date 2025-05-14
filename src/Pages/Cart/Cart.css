@@ -168,6 +168,8 @@
   }
   .cart-container {
     margin-top: 120px;
+    margin-bottom: 80px;
+    padding-bottom: 2rem;
   }
 
   .cart-item {
@@ -196,6 +198,8 @@
   .cart-container {
     padding: 0.5rem;
     margin-top: 4rem;
+    margin-bottom: 70px;
+    padding-bottom: 1.5rem;
   }
 
   .cart-title {
