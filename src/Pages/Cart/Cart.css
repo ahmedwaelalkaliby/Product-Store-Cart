@@ -166,6 +166,9 @@
   .cart-content {
     grid-template-columns: 1fr;
   }
+  .cart-container {
+    margin-top: 120px;
+  }
 
   .cart-item {
     grid-template-columns: 80px 1fr;
@@ -183,7 +186,6 @@
   }
 
   .cart-summary {
-    position: sticky;
     bottom: 0;
     margin-top: 1rem;
   }
@@ -193,6 +195,7 @@
 @media (max-width: 480px) {
   .cart-container {
     padding: 0.5rem;
+    margin-top: 4rem;
   }
 
   .cart-title {
