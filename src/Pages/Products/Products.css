@@ -134,6 +134,13 @@
   .product-image-container {
     height: 200px;
   }
+  .product-card {
+    height: auto;
+    margin-bottom: 1.5rem;
+  }
+  .add-to-cart-btn {
+    margin: 0.5rem 0;
+  }
 }
 
 .loading-container {
